@@ -40,4 +40,4 @@
 - **Email:** qjdseslabon@tip.edu.ph
 
 ---
-From [jdeslabon](https://github.com/jdeslabon)
+From [jeydiislabon](https://github.com/jeydiislabon)
